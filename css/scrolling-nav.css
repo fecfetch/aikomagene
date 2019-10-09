@@ -6,7 +6,9 @@
 header {
   padding: 156px 0 100px;
 }
-
+center {
+  padding: 3% 3% 0 3%;
+}
 section {
   padding: 150px 0;
 }
